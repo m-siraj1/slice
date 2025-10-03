@@ -7,4 +7,8 @@ The chapter about 'slices' in Rust documentaions starts with a challange on writ
 This is my attempt at the challange.
 
 
+To run the program, type './slice' followed by your argument, note that you have to be in the dictionary of the program for it to start.
+The dictionary is target/release/ .
+
+
 
